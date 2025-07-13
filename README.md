@@ -1,4 +1,8 @@
 # Hospital Management System
+![1747408083356](https://github.com/user-attachments/assets/b5b27132-6104-47ac-8bf5-37323752e384)
+
+
+![1747408105174](https://github.com/user-attachments/assets/65d8b0db-ba79-4172-a545-b1c265f86a18)
 
 A comprehensive Java-based Hospital Management System designed to handle administrative tasks such as patient management, appointments, doctor records, and billing. Built as an Eclipse project with a MySQL database backend.
 
